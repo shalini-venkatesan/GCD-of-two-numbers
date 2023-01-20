@@ -15,6 +15,9 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```py
+#program code for finding the greatest common difference of two numbers using function 
+#Developed by: Shalini v
+#Register no: 22009257
 def gcd():
     n1,n2=int(input()),int(input())
     if n1<n2:
